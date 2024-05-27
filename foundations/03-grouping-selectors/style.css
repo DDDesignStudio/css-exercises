@@ -1,0 +1,15 @@
+.testclass1,
+.testclass2 {
+    font-size: 28px;
+    font-family: 'Helvetica', 'Times New Roman', 'sans-serif';
+}
+
+.testclass1 {
+    background-color: #000000;
+    color: white;
+    font-weight: bold;
+}
+
+.testclass2 {
+    background-color: gold;
+}
